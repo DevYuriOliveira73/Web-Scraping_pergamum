@@ -10,10 +10,12 @@ Antes de rodar o código é necessário instalar:
 
 '''pip install selenium
 pip install beautifulsoup4'''
-Na segunda e terceira linha precisa colocar a matricula e a senha, respectivamente
+
+E na 2ª e 3ª linha coloque respectivamente a sua matricula e senha
 
 
 ## 📝 Descrição
-O script usa o framework [Selenium](https://www.selenium.dev/)
+O script usa:
+- O framework [Selenium](https://www.selenium.dev/)
 
 
