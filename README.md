@@ -5,13 +5,15 @@ Automatização do site pergamum, responsável pela renovação dos livros aluga
 ## 🎯 Objetivos
 Unir meu desejo de aprender a automatizar tarefas na web com a insatisfação de precisar renovar livro por livro, correndo o risco de esquecer algum. Por isso, desenvolvi um script para automatizar o processo de renovação de empréstimos de livros da biblioteca da UFC, economizando tempo e, principalmente, evitando multas por atrasos.
 
-## 📖 Instruções
-Antes de rodar o código é necessário instalar:
+## 📖 Instruções para Rodar o Código
+Antes de rodar o código pela primeira vez, é necessário instalar:
 
-'''pip install selenium
-pip install beautifulsoup4'''
+'''
+pip install selenium
+pip install beautifulsoup4
+'''
 
-E na 2ª e 3ª linha coloque respectivamente a sua matricula e senha
+E na 2ª e 3ª linha coloque respectivamente a sua matrícula e senha
 
 
 ## 📝 Descrição
