@@ -8,16 +8,22 @@ Unir meu desejo de aprender a automatizar tarefas na web com a insatisfação de
 ## 📖 Instruções para Rodar o Código
 Antes de rodar o código pela primeira vez, é necessário instalar:
 
-'''
+```
 pip install selenium
 pip install beautifulsoup4
-'''
+```
 
-E na 2ª e 3ª linha coloque respectivamente a sua matrícula e senha
+E na 2ª e 3ª linha coloque respectivamente a sua matrícula e senha:
+
+```
+matricula_ = '777777'    #ALTERE
+senha_ = '333333'        #ALTERE
+```
 
 
 ## 📝 Descrição
 O script usa:
 - O framework [Selenium](https://www.selenium.dev/)
+- A bibliote [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 
 
